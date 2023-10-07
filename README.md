@@ -6,6 +6,7 @@ Here is a list of all the most relevant repositories you can visit first:
 
 * [Certifications](https://github.com/sfadriaan/Certifications/tree/main)
 * [Apex Projects](https://github.com/sfadriaan/Apex-Projects)
+* [Omnistudio Projects](https://github.com/sfadriaan/Omnistudio-Projects)
 
 Each project has its own README that discusses the project in more detail. 
 
