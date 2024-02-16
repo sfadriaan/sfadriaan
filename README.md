@@ -7,6 +7,7 @@ Here is a list of all the most relevant repositories you can visit first:
 * [Certifications](https://github.com/sfadriaan/Certifications/tree/main)
 * [Apex Projects](https://github.com/sfadriaan/Apex-Projects)
 * [Omnistudio Projects](https://github.com/sfadriaan/Omnistudio-Projects)
+* [Stack Exchange Answers](https://github.com/sfadriaan/Stack-Exchange-Answers)
 
 Each project has its own README that discusses the project in more detail. 
 
