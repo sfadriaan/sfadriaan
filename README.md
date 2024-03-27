@@ -11,11 +11,18 @@ Here is a list of all the most relevant repositories you can visit first:
 
 Each project has its own README that discusses the project in more detail. 
 
+**Additionally**, I have also used programming languages such as Python to automate my day-to-day or just to create fun projects:
+
+* [Data Extractor](https://github.com/adriaan-portfolio/tbl-data-extractor)
+* [Twitter X-mas bot](https://github.com/adriaan-portfolio/xmas-loading)
+
 ## Background
 
 Hello! 
 
-My name is Adriaan and welcome to my Project Portfolio!
+My name is Adriaan and welcome to my Project Portfolio! 
+I am a Mechanical Engineer turned Salesforce Consultant. 
+I love using programming for any problems that come my way, automating my life wherever I can and conducting analysis on topics that interest me!
 
 ### Contact Me
 
