@@ -11,6 +11,10 @@ Here is a list of all the most relevant repositories you can visit first:
 
 Each project has its own README that discusses the project in more detail. 
 
+I also participated in challenges which is listed here:
+
+* [#100DaysOfSalesforce](https://torch-rhythm-74d.notion.site/100DaysOfSalesforce-46c40e6145b643fd8115eda5d14956ee?pvs=4)
+
 **Additionally**, I have also used programming languages such as Python to automate my day-to-day or just to create fun projects:
 
 * [Data Extractor](https://github.com/adriaan-portfolio/tbl-data-extractor)
